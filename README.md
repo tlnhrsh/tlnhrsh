@@ -32,11 +32,8 @@ I'm actively exploring roles in:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| Tourism Management System | Admin/User/Guest roles, dynamic content | PHP, MySQL, Bootstrap |
-| Hospital Management Website | Patient-doctor CRUD system | PHP, HTML, CSS |
+| Tourism Management System | Admin/User/Guest roles, dynamic content | Python, djyngo,Html,css, js, Bootstrap |
 | Resume Builder | Web app for resume creation | HTML, CSS, JS |
-| Weather App | API-based real-time data | JavaScript, OpenWeather API |
-| Blog UI Clone | Responsive blog interface | React, Tailwind CSS |
 
 ---
 
