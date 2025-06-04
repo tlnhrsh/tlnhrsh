@@ -17,7 +17,7 @@ I'm a recent BCA graduate passionate about building real-world applications and 
 - Git & GitHub (obviously 😄)
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/Harsh Tolani)  
+- [LinkedIn](https://linkedin.com/in/HarshTolani)  
 - 📧 tlnhrsh@gmail.com
 
 ---
