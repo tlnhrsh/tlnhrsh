@@ -1,27 +1,69 @@
-# 👋 Hey there! I'm Harsh Tolani
+<h1 align="center">👋 Hello, I'm Harsh Tolani</h1>
 
-I'm a recent BCA graduate passionate about building real-world applications and solving problems using technology. I'm currently exploring software development, web and mobile app development, and full-stack projects.
-
-## 💻 What I Do
-- 🧑‍💻 Develop full-stack web apps using HTML, CSS, JavaScript, PHP & React
-- 📊 Learn and build projects in Python for data analysis
-- 🔒 Create simple login/auth systems and CRUD applications
-- 🌐 Manage personal projects and continuously improve my skills
-
-## 🚀 Projects I'm Proud Of
-- 🎒 Tourism Management System  
-
-## 🌱 Currently Learning
-- software devlopment
--  python
-- Git & GitHub (obviously 😄)
-
-## 📫 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/HarshTolani)  
-- 📧 tlnhrsh@gmail.com
+<p align="center">
+🎓 BCA Graduate | 💻 Web & Software Developer | 🌱 Passionate Learner  
+</p>
 
 ---
 
-📍 *"Always curious, always coding."*
+### 🚀 About Me
 
-  
+I’m a recent BCA graduate with a passion for building useful and real-world web and app solutions.  
+I'm actively exploring roles in:
+
+- 👨‍💻 **Frontend Development** – HTML, CSS, JavaScript, React  
+- 🛠️ **Full-Stack Development** – PHP, MySQL, Node.js  
+- 📱 **App Development** – Learning Flutter & React Native  
+- 🧪 **Software Testing & QA** – Manual and beginner-level automation  
+- 📊 **Data Analysis** – Python, Pandas, Matplotlib (beginner level)
+
+---
+
+### 💼 What Suits Me
+- Creative roles like **Frontend Developer**  
+- Complete project ownership as a **Full-Stack Developer**  
+- Freelance or team roles for building **business websites or apps**  
+- Entry-level **QA**, **App Developer**, or **Data Analyst** positions  
+> I enjoy problem-solving, designing clean interfaces, and learning new technologies.
+
+---
+
+### 📂 Notable Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| Tourism Management System | Admin/User/Guest roles, dynamic content | PHP, MySQL, Bootstrap |
+| Hospital Management Website | Patient-doctor CRUD system | PHP, HTML, CSS |
+| Resume Builder | Web app for resume creation | HTML, CSS, JS |
+| Weather App | API-based real-time data | JavaScript, OpenWeather API |
+| Blog UI Clone | Responsive blog interface | React, Tailwind CSS |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`HTML` `CSS` `JavaScript` `PHP` `Python`  
+
+**Tools & Frameworks:**  
+`React` `Bootstrap` `Node.js` `MySQL` `Git` `VS Code`
+
+---
+
+### 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/your-Harshtolani)  
+- 📧 Email: tlnhrsh@gmail.com  
+- 🌐 Portfolio: *Coming Soon...*
+
+---
+
+### ✨ Fun Facts
+
+- 💬 I love learning through hands-on projects.
+- 🎯 My goal: Become a confident full-stack developer.
+- ⚡ Fun: I enjoy designing, debugging, and drinking chai while coding. 😄
+
+---
+
+> 📍 *"Code. Learn. Repeat."*  
