@@ -11,10 +11,10 @@
 I’m a recent BCA graduate with a passion for building useful and real-world web and app solutions.  
 I'm actively exploring roles in:
 
-- 👨‍💻 **Frontend Development** – HTML, CSS, JavaScript, React  
-- 🛠️ **Full-Stack Development** – PHP, MySQL, Node.js  
+- 👨‍💻 **Frontend Development** – HTML, CSS, JavaScript, React, Bootstrap.
+- 🛠️ **Full-Stack Development** – Learnings PHP, MySQL, Node.js  
 - 📱 **App Development** – Learning Flutter & React Native  
-- 🧪 **Software Testing & QA** – Manual and beginner-level automation  
+- 🧪 **Software Testing & QA** – Learning Manual and beginner-level automation  
 - 📊 **Data Analysis** – Python, Pandas, Matplotlib (beginner level)
 
 ---
